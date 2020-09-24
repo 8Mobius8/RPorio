@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "RPorio for Factorio"
+theme = "starter"
+publishDir = "docs"
