@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on RPorio for Factorio</title>
-    <link>http://example.org/posts/</link>
+    <link>https://8mobius8.github.io/RPorio/posts/</link>
     <description>Recent content in Posts on RPorio for Factorio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2020 20:47:41 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Sep 2020 20:47:41 -0500</lastBuildDate><atom:link href="https://8mobius8.github.io/RPorio/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RPorio: is it a good idea?</title>
-      <link>http://example.org/posts/intro/</link>
+      <link>https://8mobius8.github.io/RPorio/posts/intro/</link>
       <pubDate>Wed, 23 Sep 2020 20:47:41 -0500</pubDate>
       
-      <guid>http://example.org/posts/intro/</guid>
+      <guid>https://8mobius8.github.io/RPorio/posts/intro/</guid>
       <description>So I thought it would be good to have some sort of journal on this project to here it&amp;rsquo;s. Using Hugo to make a silly website as a blog and possibly wiki for this thing call RPGorio.
 So what is RPGorio and is it a good idea? As of writting RPGorio does not exist yet, but hopefully one day it will be a fun Factorio role playing mod!
  Question: &amp;lsquo;But Mobius&amp;hellip; why does Factorio need and RP elements?</description>

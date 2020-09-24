@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://8mobius8.github.io/RPorio/"
 languageCode = "en-us"
 title = "RPorio for Factorio"
 theme = "starter"
